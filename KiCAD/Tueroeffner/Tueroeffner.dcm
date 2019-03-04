@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Display
+D Display
+K display i2c 0,96"
+$ENDCMP
+#
+$CMP HM-MOD-EM-8
+D HomeMatic 8-Kanal-Sendemodul
+K HomeMatic 8-Kanal-Sendemodul HM-MOD-EM-8
+F https://files.elv.com/Assets/Produkte/13/1329/132939/Downloads/132939_hm_sendemodul_data.pdf
+$ENDCMP
+#
+$CMP Lader
+D Lader
+K Lader
+$ENDCMP
+#
+$CMP SparkFun_ESP32_Thing
+D SparkFun ESP32 Thing Module
+K ESP32 Microcontroller Module SparkFun ESP32 Thing
+F https://www.sparkfun.com/products/13907
+$ENDCMP
+#
+#End Doc Library

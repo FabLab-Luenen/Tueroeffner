@@ -1,0 +1,8 @@
+Lader:
+14mm auﬂen
+3mm Lochabstand
+22,7mm
+
+Spannungswandler:
+Pololu U1V11F5 (https://www.pololu.com/product/2562/resources)
+
